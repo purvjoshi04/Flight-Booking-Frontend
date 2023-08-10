@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Home.scss";
 import Video from "../../assets/video.mp4";
-import Plane from "../../assets/plane1.png";
+import Plane from "../../assets/plane.png";
 
 import Aos from 'aos';
 import "aos/dist/aos.css";
