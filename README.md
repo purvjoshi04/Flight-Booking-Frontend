@@ -12,9 +12,7 @@ This project only contain frontend of flight booking website.
 npm install
 ```
 <br />
-5. To run server
-```bash
-npm run dev
-````
+5. To run server 'npm run dev'
+
 
 
