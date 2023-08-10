@@ -55,7 +55,7 @@ const Footer = () => {
       </div>
 
       <div className="copyRightDiv flex">
-        <p>Courtesy Design | Developed by <a href="https://github.com/mrinnnmoy" target="_blank" rel='noreferrer'>Mrinmoy</a></p>
+        <p>Courtesy Design | Developed by <a href="https://github.com/purvjoshi04/purvjoshi04" target="_blank" rel='noreferrer'>Purv Joshi</a></p>
       </div>
 
     </div>
